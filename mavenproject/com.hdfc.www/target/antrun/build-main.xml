@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <move file="/root/mavenproject/com.hdfc.www/target/com.hdfc.www-2-apexapp.jar" tofile="/root/mavenproject/com.hdfc.www/target/com.hdfc.www-2.apa"/>
+</target>
+</project>
